@@ -1,0 +1,29 @@
+.title {
+	text-decoration: underline;
+	text-align: center;
+}
+
+.subtitle {
+	text-align: center;
+}
+
+.table {
+  	width: 100%;
+  	border-collapse: collapse;
+  	border: 3px solid purple;
+  	text-align: center;
+}
+
+td {
+	border-left: 1px dashed purple;
+	border-top: 1px solid purple;
+}
+
+th {
+	border-bottom: 1px solid purple;
+}
+
+.no {
+	background-color: purple;
+	opacity: 0.5;
+}
